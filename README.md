@@ -12,3 +12,5 @@ The dataset consists of 1 Million+ transaction by over 800K customers for a bank
 
 <img width="804" alt="Screenshot 2022-08-20 at 8 43 43 PM" src="https://user-images.githubusercontent.com/97120462/185753724-410078db-a1d8-47d8-bd13-6f67ed8d1d23.png">
 
+**Submitted by-**  
+**Sakchica Sahu**  https://github.com/SakchicaSahu
